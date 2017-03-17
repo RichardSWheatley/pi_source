@@ -1,0 +1,1 @@
+pscp c:\code\mine.txt pi@172.24.7.161:/home/pi/mine/code
